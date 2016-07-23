@@ -1,0 +1,9 @@
+api:
+  name: todo
+root:
+  - name: todos
+    type: todo[]
+types:
+  - name: todo
+    key: id
+    requiredProperties: name

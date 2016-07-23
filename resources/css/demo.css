@@ -1,0 +1,28 @@
+.textareamessage {
+  font-size:20px;
+  font-weight: normal;
+  line-height: 30px;
+  margin: 0;
+}
+
+#src {
+  width: 49%;
+  float: left;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#res {
+  width: 49%;
+  float: right;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#src .CodeMirror {
+  height: 650px;
+}
+
+#res .CodeMirror {
+  height: 605px;
+}
