@@ -1,5 +1,5 @@
 exports.Constants = {
-    Port: 80,
+    Port: 8000,
     Paths: {
         Static: '../../public/',
 		ToDoMetadataSample: './public/samples/todo_metadata.json',
